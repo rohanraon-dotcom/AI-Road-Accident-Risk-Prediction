@@ -1,6 +1,4 @@
 # AI-Based Road Accident Risk Prediction and Early Warning System
-Note: ## (Code Availability)
-[The source code is currently not included in this repository. The project is still being refined, and the code will be added after further testing, improvements, and updates.]
 
 ## Problem
 Road accidents can occur due to heavy traffic, poor weather, low visibility, and risky road conditions. Existing navigation systems mainly provide routes and traffic information but do not provide a road-safety risk level.
